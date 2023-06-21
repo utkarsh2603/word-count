@@ -1,7 +1,7 @@
 {
   "name": "word-count",
   "version": "0.1.0",
-  "homepage": "https://github.com/AmanKumar117.github.io/word-count",
+  "homepage": "https://utkarsh2603.github.io/word-count",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
