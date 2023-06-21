@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AmanKumar117.github.io/word-count/static/css/main.d299ff1b.css",
+    "main.js": "/AmanKumar117.github.io/word-count/static/js/main.d194eec1.js",
+    "static/js/787.f2512186.chunk.js": "/AmanKumar117.github.io/word-count/static/js/787.f2512186.chunk.js",
+    "index.html": "/AmanKumar117.github.io/word-count/index.html",
+    "main.d299ff1b.css.map": "/AmanKumar117.github.io/word-count/static/css/main.d299ff1b.css.map",
+    "main.d194eec1.js.map": "/AmanKumar117.github.io/word-count/static/js/main.d194eec1.js.map",
+    "787.f2512186.chunk.js.map": "/AmanKumar117.github.io/word-count/static/js/787.f2512186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d299ff1b.css",
+    "static/js/main.d194eec1.js"
+  ]
+}
